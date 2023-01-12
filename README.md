@@ -14,5 +14,5 @@ pip install -r requirements.txt
 Followed by 
 streamlit run main.py
 
-
+Also hosted at https://share.streamlit.io/architjee/braintumorclassifier/main.py
 
